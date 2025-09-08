@@ -2,6 +2,8 @@ Introdução
 Esse desafio tem como proposta desvenvolver a busca de informações nos [metadados](https://www.ibm.com/br-pt/think/topics/metadata) de uma imagem, instigando a curiosidade em buscar diferentes métodos e 
 ferramentas para o processo.
 
+[Página do desafio](https://play.picoctf.org/practice/challenge/460)
+
 Passo a Passo
 1- Inicialmente só temos uma imagem toda vermelha e dicas: duvidar se a imagem está pura e questionar qual é o nome atual do Facebook.
 
@@ -58,6 +60,7 @@ Flag: picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
 Reflexão:
 Esse desafio foi bem complicado de resolver, pois nos metadados da imagem continha uma distração que me pegou por um tempo.
 A questão me fez aprender que existem vários métodos de esconder dados em um arquivo .png, junto com inúmeras ferramentas para poder encontrá-los.
+
 
 
 
