@@ -1,0 +1,36 @@
+Introdução
+Esse desafio tem como proposta desvenvolver a busca de informações nos metadados de uma imagem, instigando a curiosidade em buscar diferentes métodos e 
+ferramentas para o processo.
+
+Passo a Passo
+1- Inicialmente só temos uma imagem toda vermelha e dicas: duvidando se a imagem está pura e questionando qual o nome atual do facebook.
+
+[![red.png](https://i.postimg.cc/8zG5ktD4/red.png)](https://postimg.cc/0btxcGzK)
+
+Refletindo as dicas é possível deduzir que é preciso analisar os metadados da imagem.
+
+2- Existem vários jeitos de analisar os metadados, mas neste desafio optei pelo site [Online-Metadata](https://online-metadata.com/pt)
+
+[![Captura-de-tela-2025-09-08-134234.png](https://i.postimg.cc/FzFpQjzH/Captura-de-tela-2025-09-08-134234.png)](https://postimg.cc/G8NGFTvW)
+
+
+3- Então através da análise obtenho um poema:
+Crimson heart, vibrant and bold,
+Hearts flutter at your sight.
+Evenings glow softly red,
+Cherries burst with sweet life.
+Kisses linger with your warmth,
+Love deep as merlot.
+Scarlet leaves falling softly,
+Bold in every stroke.
+
+Traduzindo:
+Coração carmesim, vibrante e ousado.
+Corações batem mais rápido ao te ver.
+As tardes brilham em vermelho suave.
+Cerejas explodem em doce vida.
+Beijos permanecem com o teu calor.
+Amor profundo como o merlot.
+Folhas escarlates caem suavemente.
+Ousadia em cada traço.
+
