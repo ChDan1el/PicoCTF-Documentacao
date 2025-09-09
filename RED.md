@@ -65,8 +65,10 @@ Flag: picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
 
 
 Reflexão:
+
 Esse desafio foi bem complicado de resolver, pois nos metadados da imagem continha uma distração que me pegou por um tempo.
 A questão me fez aprender que existem vários métodos de esconder dados em um arquivo .png, junto com inúmeras ferramentas para poder encontrá-los.
+
 
 
 
