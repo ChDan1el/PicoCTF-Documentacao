@@ -41,7 +41,8 @@ flag!
 Flag: picoCTF{c00k1e_m0nster_l0ves_c00kies_B3AD94C2}
 
 
-Reflexão:
+Conclusão:
+
 Esse desafio é fácil e ao mesmo tempo excelente para o aprendizado, pois nos é ensinado a 
 funcionalidade do tão falado cookie de site, desenvolvendo a lógica em gravar dados nos 
 cookies e como podemos extrair informações valiosas a partir deles, neste caso, a flag 
