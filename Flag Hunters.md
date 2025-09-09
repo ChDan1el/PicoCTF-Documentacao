@@ -11,7 +11,7 @@ Passo a Passo
 1-Primeira coisa a se fazer é analisar o código Python e tentar entendê-lo.
 A parte que queremos que seja impressa não está sendo retornada porque fica alternando entre refrão e estrofes.
 
-https://ibb.co/Vcbf2C8Q
+https://ibb.co/Vcbf2C8Q, o site de imagem que eu usava não está funcionando
 
 https://ibb.co/BV3zyRvX
 
@@ -35,6 +35,7 @@ Conclusão:
 Esse desafio é bastante difícil para resolver, entretanto ele realça a importância
 da segurança no input realizado pelo usuário, oferecendo grandes riscos à funcionalidade
 do programa e o comprometimento de dados internos.
+
 
 
 
