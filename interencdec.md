@@ -1,4 +1,5 @@
 Introdução
+
 Este é um excecelnte desafio para iniciantes em decodificação, ele se baseia em dar uma string codificada e transformá-la na flag.
 São usados dois tipos de codificação: [base64](https://pt.wikipedia.org/wiki/Base64) e [cifra de César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar)
 
@@ -30,4 +31,5 @@ Flag: picoCTF{caesar_d3cr9pt3d_a47c6d69}
 Reflexão:
 Esse foi um desafio simples de decodificação, precisando decodificar somente duas vezes para encontrar a flag certa.
 Ele foi excelente para encontrar padrões de codificação de Base64 e cifra de César.
+
 
