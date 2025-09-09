@@ -10,7 +10,7 @@ Passo a Passo
 1- Depois de baixar o arquivo, identifico que a string está codificada em Base64, pois termina com "==":
 d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrX2g0N2o2azY5fQ==
 
-2- Pegando essa string e jogando em um decodificador, é retornada outra string codificada.
+2- Pegando essa string e jogando em um decodificador, é retornada outra string codificada:
 wpjvJAM{jhlzhy_k3jy9wa3k_h47j6k69}
 
 [![Captura-de-tela-2025-09-08-175743.png](https://i.postimg.cc/tT199HPM/Captura-de-tela-2025-09-08-175743.png)](https://postimg.cc/qhdPGS1s)
@@ -31,5 +31,6 @@ Flag: picoCTF{caesar_d3cr9pt3d_a47c6d69}
 Reflexão:
 Esse foi um desafio simples de decodificação, precisando decodificar somente duas vezes para encontrar a flag certa.
 Ele foi excelente para encontrar padrões de codificação de Base64 e cifra de César.
+
 
 
