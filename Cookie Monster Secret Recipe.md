@@ -21,17 +21,18 @@ URL ,mas neste caso só existe uma mensagem indicando o caminho correto do site
 
 3- Seguindo a dica 2 do desafio, decidi verificar os cookies do site. Como só existem 
 cookies depois de interagir com o site, realizei um login qualquer.
+
 4- Após a tentativa de login, sou direcionado para outra página que informa que o login 
 falhou. Junto com a mensagem de falha de login também há outra dica relacionado aos cookies,
 confirmando minha hipótese de que os cookies conteriam alguma informação útil.
 
 [![Captura-de-tela-2025-09-08-131908.png](https://i.postimg.cc/C1H6jhX9/Captura-de-tela-2025-09-08-131908.png)](https://postimg.cc/N9F4tcgx)
 
-[![Captura-de-tela-2025-09-08-132053.png](https://i.postimg.cc/tCmvdmvR/Captura-de-tela-2025-09-08-132053.png)](https://postimg.cc/rKx9MgL7)
-
 5- Voltando à página principal e inspecionando os cookies, encontro uma linha chamada 
 secret_recipe com uma mensagem codificada em base64:
 cGljb0NURntjMDBrMWVfbTBuc3Rlcl9sMHZlc19jMDBraWVzX0IzQUQ5NEMyfQ%3D%3D
+[![Captura-de-tela-2025-09-08-132053.png](https://i.postimg.cc/tCmvdmvR/Captura-de-tela-2025-09-08-132053.png)](https://postimg.cc/rKx9MgL7)
+
 
 6- Decodificando a string  no site [cyberchef](https://gchq.github.io/CyberChef/) obtenho a
 flag!
