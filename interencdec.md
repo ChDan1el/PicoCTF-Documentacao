@@ -17,7 +17,7 @@ wpjvJAM{jhlzhy_k3jy9wa3k_h47j6k69}
 
 3- Tomando como dica a tag do desafio no site, pego a string retornada e coloco em um [decodificador de cifra de cesar](https://site112.com/cifra-de-cesar-codificar-descodificar).
 
-Fazendo uma conta básica para encontrar o número de deslocamento, comparo o "J" maiúsculo da string com o "C" maiúsculo do início padrão das flags do site [picoCTF](https://play.picoctf.org/),picoCTF{}, sendo o C=3 e J=10,
+Fazendo uma conta básica para encontrar o número de deslocamento, comparo o "J" maiúsculo da string com o "C" maiúsculo do início padrão das flags do site [picoCTF](https://play.picoctf.org/),picoCTF{...}, sendo o C=3 e J=10,
 seguindo a numeração da ordem alfabética, fica 10-3=7, logo o deslocamento é de 7 letras para a direita.
 
 [![Captura-de-tela-2025-09-08-181601.png](https://i.postimg.cc/L8NSfs3W/Captura-de-tela-2025-09-08-181601.png)](https://postimg.cc/QF9vZhPg)
@@ -32,6 +32,7 @@ Flag: picoCTF{caesar_d3cr9pt3d_a47c6d69}
 Reflexão:
 Esse foi um desafio simples de decodificação, precisando decodificar somente duas vezes para encontrar a flag certa.
 Ele foi excelente para encontrar padrões de codificação de Base64 e cifra de César.
+
 
 
 
