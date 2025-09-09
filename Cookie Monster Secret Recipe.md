@@ -19,8 +19,6 @@ inspecionar o código da página, mas nada de relevante é encontrado.
 URL ,mas neste caso só existe uma mensagem indicando o caminho correto do site
 [![Captura-de-tela-2025-09-08-131759.png](https://i.postimg.cc/fTwQqFvx/Captura-de-tela-2025-09-08-131759.png)](https://postimg.cc/rzYHKf3m)
 
-[![Captura-de-tela-2025-09-08-131908.png](https://i.postimg.cc/C1H6jhX9/Captura-de-tela-2025-09-08-131908.png)](https://postimg.cc/N9F4tcgx)
-
 3- Seguindo a dica 2 do desafio, decidi verificar os cookies do site. Como só existem 
 cookies depois de interagir com o site, realizei um login qualquer.
 [![Captura-de-tela-2025-09-08-131908.png](https://i.postimg.cc/C1H6jhX9/Captura-de-tela-2025-09-08-131908.png)](https://postimg.cc/N9F4tcgx)
