@@ -46,11 +46,13 @@ Mas percebo que esse método não leva a nada. Sendo provavelmente uma distraç�
 usando as ferramentas citadas no site do [IBSEC](https://ibsec.com.br/10-ferramentas-stegano-uteis-para-ctf/#:~:text=Esteganografia%20%C3%A9%20uma%20t%C3%A9cnica%20de,%2C%20mp3%2C%20wav%2C%20etc.):
 
 5.1- Steghide, [Como usar](https://medium.com/the-kickstarter/steganography-on-kali-using-steghide-7dfd3293f3fa)
+
 Como não sei nenhuma senha fornecida, deixo esse método para depois.
 
 [![Captura-de-tela-2025-09-08-165859.png](https://i.postimg.cc/8C28SdFG/Captura-de-tela-2025-09-08-165859.png)](https://postimg.cc/yJyphZXp)
 
 5.2- zsteg, [Como usar](https://github.com/zed-0xff/zsteg)
+
 Testando o primeiro exemplo depois da instalação, encontro uma string codificada em base64:
 cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==
 
@@ -65,6 +67,7 @@ Flag: picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
 Reflexão:
 Esse desafio foi bem complicado de resolver, pois nos metadados da imagem continha uma distração que me pegou por um tempo.
 A questão me fez aprender que existem vários métodos de esconder dados em um arquivo .png, junto com inúmeras ferramentas para poder encontrá-los.
+
 
 
 
