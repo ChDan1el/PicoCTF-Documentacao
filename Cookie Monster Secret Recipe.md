@@ -14,15 +14,16 @@ inspecionar o código da página, mas nada de relevante é encontrado.
 
 [![Captura-de-tela-2025-09-08-131300.png](https://i.postimg.cc/yYXYkcLT/Captura-de-tela-2025-09-08-131300.png)](https://postimg.cc/mtkGnzfc)
 
-[![Captura-de-tela-2025-09-08-131759.png](https://i.postimg.cc/fTwQqFvx/Captura-de-tela-2025-09-08-131759.png)](https://postimg.cc/rzYHKf3m)
 
 2- Uma tentativa comum é verificar o arquivo /robots.txt,adicionando /robots.txt no final do 
-URL ,mas neste caso só existe uma mensagem indicando o caminho correto do site.
+URL ,mas neste caso só existe uma mensagem indicando o caminho correto do site
+[![Captura-de-tela-2025-09-08-131759.png](https://i.postimg.cc/fTwQqFvx/Captura-de-tela-2025-09-08-131759.png)](https://postimg.cc/rzYHKf3m)
 
 [![Captura-de-tela-2025-09-08-131908.png](https://i.postimg.cc/C1H6jhX9/Captura-de-tela-2025-09-08-131908.png)](https://postimg.cc/N9F4tcgx)
 
 3- Seguindo a dica 2 do desafio, decidi verificar os cookies do site. Como só existem 
 cookies depois de interagir com o site, realizei um login qualquer.
+[![Captura-de-tela-2025-09-08-131908.png](https://i.postimg.cc/C1H6jhX9/Captura-de-tela-2025-09-08-131908.png)](https://postimg.cc/N9F4tcgx)
 
 4- Após a tentativa de login, sou direcionado para outra página que informa que o login 
 falhou. Junto com a mensagem de falha de login também há outra dica relacionado aos cookies,
