@@ -29,9 +29,11 @@ Flag: picoCTF{caesar_d3cr9pt3d_a47c6d69}
 
 
 
-Reflexão:
+Conclusão:
+
 Esse foi um desafio simples de decodificação, precisando decodificar somente duas vezes para encontrar a flag certa.
 Ele foi excelente para encontrar padrões de codificação de Base64 e cifra de César.
+
 
 
 
