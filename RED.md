@@ -18,6 +18,7 @@ Refletindo as dicas é possível deduzir que é preciso analisar os metadados da
 
 
 3- Então, através da análise, obtenho um poema:
+
 Crimson heart, vibrant and bold,
 Hearts flutter at your sight.
 Evenings glow softly red,
@@ -28,6 +29,7 @@ Scarlet leaves falling softly,
 Bold in every stroke.
 
 Traduzindo:
+
 Coração carmesim, vibrante e ousado.
 Corações batem mais rápido ao te ver.
 As tardes brilham em vermelho suave.
@@ -61,6 +63,7 @@ Flag: picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
 Reflexão:
 Esse desafio foi bem complicado de resolver, pois nos metadados da imagem continha uma distração que me pegou por um tempo.
 A questão me fez aprender que existem vários métodos de esconder dados em um arquivo .png, junto com inúmeras ferramentas para poder encontrá-los.
+
 
 
 
