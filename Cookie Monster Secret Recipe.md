@@ -37,10 +37,8 @@ cGljb0NURntjMDBrMWVfbTBuc3Rlcl9sMHZlc19jMDBraWVzX0IzQUQ5NEMyfQ%3D%3D
 6- Decodificando a string  no site [cyberchef](https://gchq.github.io/CyberChef/) obtenho a
 flag!
 
+
 Flag: picoCTF{c00k1e_m0nster_l0ves_c00kies_B3AD94C2}
-
-
-
 
 
 Reflexão:
