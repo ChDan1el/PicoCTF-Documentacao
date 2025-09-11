@@ -60,6 +60,8 @@ cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==
 
 6- Uso um [decodificador de Base64](https://www.base64decode.org/pt/) e finalmente encontro a flag.
 
+[![Captura-de-tela-2025-09-11-113926.png](https://i.postimg.cc/qMQPtm18/Captura-de-tela-2025-09-11-113926.png)](https://postimg.cc/gnXSQKFJ)
+
 Flag: picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
 
 
@@ -68,6 +70,7 @@ Conclusão:
 
 Esse desafio foi bem complicado de resolver, pois nos metadados da imagem continha uma distração que me pegou por um tempo.
 A questão me fez aprender que existem vários métodos de esconder dados em um arquivo .png, junto com inúmeras ferramentas para poder encontrá-los.
+
 
 
 
